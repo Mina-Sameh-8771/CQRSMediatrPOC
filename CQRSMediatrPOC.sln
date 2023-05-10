@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CQRSMediatrPOC", "CQRSMediatrPOC\CQRSMediatrPOC.csproj", "{16B9A140-1267-4E6F-B353-8053BC453135}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16B9A140-1267-4E6F-B353-8053BC453135}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16B9A140-1267-4E6F-B353-8053BC453135}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16B9A140-1267-4E6F-B353-8053BC453135}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16B9A140-1267-4E6F-B353-8053BC453135}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E38E9BFC-8F81-4789-8125-AC8B9E57DF67}
+	EndGlobalSection
+EndGlobal
